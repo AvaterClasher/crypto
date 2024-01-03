@@ -1,4 +1,4 @@
-# Cryptp LSTM model for Kharagpur Data Science Hackathon
+# Crypto (BTC) LSTM model for Kharagpur Data Science Hackathon
 
 ## Members 
 
