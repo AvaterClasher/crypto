@@ -1,4 +1,4 @@
-# Crypto (BTC) LSTM model for Kharagpur Data Science Hackathon
+# Crypto (BTC) ARIMA model for Kharagpur Data Science Hackathon
 
 ## Members 
 
