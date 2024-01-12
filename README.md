@@ -1,5 +1,5 @@
 # Crypto (BTC) ARIMA model for Kharagpur Data Science Hackathon
-
+# Repo Link - [Github](https://github.com/AvaterClasher/crypto)
 ## Members 
 
 - Soumyadip Moni
